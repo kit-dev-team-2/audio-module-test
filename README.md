@@ -5,8 +5,8 @@
 **PANNs.py** 
 - PANNs를 통한 음성 분류
 - 실행할 때 주의 사항
-  - class_labels_indices.csv와
-  - Cnn14_mAP=0.431.pth 경로 설정 필요
+  - class_labels_indices.csv(라벨 파일)와
+  - Cnn14_mAP=0.431.pth(체크 포인트 파일=가중치 파일) 경로 설정 필요
 - 성능
   - 517개? 정도의 분류 라벨이 존재 
   - Speech 중심의 AudioSet을 통해 학습하여 Speech 분류를 나름 쓸만
