@@ -19,7 +19,7 @@
 - 성능
   - 인식이 이상하게 됨. 쓰지 마셈
 
-** WhisperSR.py**
+**WhisperSR.py**
 - Whisper 모델을 통한 음성 인식(STT)
 - 로컬(PC)에서 동작
 - 성능
