@@ -16,6 +16,7 @@
 **VoskSR.py**
 - Vosk 모델을 통한 음성 인식(STT)
 - 로컬(PC)에서 동작
+- https://alphacephei.com/vosk/models (vosk-model-small-ko-0.22 모델 다운 필요)
 - 성능
   - 인식이 이상하게 됨. 쓰지 마셈
 
