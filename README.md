@@ -2,7 +2,7 @@
 
 **Version 4**
 - server3.js
-- sound3.js
+- sound4.js : 비동기 방식의 사운드 분류 버전 (오디오 수집 및 추론 쓰레드 역할 분리)
 - gui3.py : 마이크 감도 설정 추가
 
 **Version 3** 
